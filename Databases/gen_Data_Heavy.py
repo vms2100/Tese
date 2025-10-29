@@ -6,11 +6,11 @@ fake = Faker()
 
 # Conexão com PostgreSQL
 conn = psycopg2.connect(
-    dbname="DB_Library_Heavy",
-    user="x",
-    password="x",
-    host="localhost",
-    port="5432"
+    dbname="",
+    user="",
+    password="",
+    host="",
+    port=""
 )
 cursor = conn.cursor()
 
