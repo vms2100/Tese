@@ -1,0 +1,406 @@
+dia,endpoint,params,db_time_nanos,parser_time_nanos,total_time_nanos,bytes_sent,status,memoria_b,cpu_nanos
+2025-11-10,/Reservations/BookTitle/,BookTitle=Light bed bed,0,0,21471276900,0,204,12582912,0
+2025-11-10,/Library/{format}/,ID_Library=null Name=Modern magazine idea Description=null Location=null,32433784700,0,32433825600,0,204,8388608,0
+2025-11-10,/Reservations/BookTitle/,BookTitle=Wait poor evening book,0,0,38736904000,0,204,89924624,0
+2025-11-10,/Reservations/BookTitle/,BookTitle=Staff environment show class pass,0,0,40330073400,0,204,144450576,0
+2025-11-10,/Reservations/BookTitle/,BookTitle=Compare car what,0,0,40828360900,0,204,161227792,15625000
+2025-11-10,/Books/{format}/,ID_Book=null ISBN=null Title=National right stay base Sinopse=null,41834261000,0,41834549500,0,204,194782224,0
+2025-11-10,/Authors/Book_Name/,Book_Name=Director concern exist trouble,44641801700,0,44642273300,0,204,266085392,15625000
+2025-11-10,/Authors/Book_Name/,Book_Name=Follow nation indicate simple,44972044500,0,44972351200,0,204,274474000,0
+2025-11-10,/Authors/{format}/,ID_Authors=null Name=Across decide Age=null Bibliograhy=null,46798706900,219870700,47216762900,6344080,200,639378448,390625000
+2025-11-10,/Books/{format}/,ID_Book=null ISBN=978-0-693-72388-2 Title=null Sinopse=null,50562231900,0,50562503200,0,204,1415324688,0
+2025-11-10,/Books/AuthorID/,AuthorID=49473,61230680000,1000,61234094000,52,200,1918641168,0
+2025-11-10,/Books/{format}/,ID_Book=null ISBN=null Title=Name you can Sinopse=null,76538557100,0,76541195000,0,204,3279017624,0
+2025-11-10,/Authors/Book_ID/,Book_ID=1099900,76725223500,749100,76727904200,16005,200,3279017624,15625000
+2025-11-10,/Authors/Book_ID/,Book_ID=1157526,81654151700,153500,81657119400,16010,200,3546376928,0
+2025-11-10,/Books/AuthorID/,AuthorID=51290,87727568100,1100,87731232200,0,200,3773823728,0
+2025-11-10,/Authors/{format}/,ID_Authors=null Name=null Age=63 Bibliograhy=null,47566013900,3168988300,91838158600,360844868,200,5602540272,42281250000
+2025-11-10,/Stocks/BookTitle/,BookTitle=Explain boy while process,0,0,74452658300,0,204,6894385904,0
+2025-11-10,/Reservations/ClientName/,ClientName=Interview many job,56521058700,0,56522924700,0,204,2345103152,0
+2025-11-10,/Reservations/{format}/,ID_Reservations=null ID_Library=null ID_Book=null ID_Clients=58756,36350697600,0,36350746400,0,204,1141337904,0
+2025-11-10,/Library/{format}/,ID_Library=86581 Name=null Description=null Location=null,38301034400,703900,38301773200,53920,200,1808232240,0
+2025-11-10,/Authors/Book_ID/,Book_ID=1092669,38308831700,40900,38310678600,15919,200,1808232240,0
+2025-11-10,/Books/AuthorName/,Author_Name=Off local should want,87647975700,0,102076943000,0,204,4725117760,0
+2025-11-10,/Books/AuthorName/,Author_Name=Than people area strategy,75137371500,0,102088147200,0,204,4725117760,0
+2025-11-10,/Authors/Book_ID/,Book_ID=1124239,50214715700,278900,50217706400,15895,200,5847346992,15625000
+2025-11-10,/Reservations/ID_Reservation/,ID_Reservation=18554,50233586800,117500,50234140500,15005,200,5851541296,15625000
+2025-11-10,/Reservations/{format}/,ID_Reservations=null ID_Library=418639 ID_Book=null ID_Clients=null,50223175300,0,50223218300,0,204,5843152688,0
+2025-11-10,/Reservations/BookTitle/,BookTitle=Inside central walk,0,0,63495527700,0,204,1935302472,0
+2025-11-10,/Authors/{format}/,ID_Authors=null Name=null Age=73 Bibliograhy=null,61113551700,6095792100,125570308000,397439795,200,4634084184,46500000000
+2025-11-10,/Stocks/BookTitle/,BookTitle=Current key reveal issue,0,0,66441118700,0,204,1776425848,0
+2025-11-10,/Clients/{format}/,ID_Client=null Name=null Phone=null Email=null  Adress=1275 Catherine Lane Suite 635 West Gabrielleview  PW 99902,95849511700,0,95849781400,0,204,3116253064,0
+2025-11-10,/Books/AuthorName/,Author_Name=Travel compare place speak,90563210800,0,90564078000,0,204,2942442360,0
+2025-11-10,/Library/{format}/,ID_Library=null Name=null Description=null Location=Indeed too various especially avoid,74841551100,0,74841852800,0,204,1793203064,0
+2025-11-10,/Clients/{format}/,ID_Client=null Name=null Phone=001-740-631-1564x0340 Email=null  Adress=null,59961400800,0,59961722800,0,204,0,0
+2025-11-10,/Clients/{format}/,ID_Client=null Name=null Phone=null Email=null  Adress=Unit 7348 Box 6360 DPO AE 51044,102203752200,0,102204176000,0,204,2257890352,0
+2025-11-10,/Authors/Book_Name/,Book_Name=Modern choose pretty institution,65670221200,0,65670488100,0,204,1028472064,0
+2025-11-10,/Reservations/{format}/,ID_Reservations=null ID_Library=null ID_Book=313247 ID_Clients=null,59750744800,0,59750809400,0,204,0,0
+2025-11-10,/Reservations/{format}/,ID_Reservations=null ID_Library=null ID_Book=488681 ID_Clients=null,59447130000,0,59447203700,0,204,0,0
+2025-11-10,/Library/{format}/,ID_Library=98223 Name=null Description=null Location=null,53532331000,6897800,53539280300,54584,200,4412034280,0
+2025-11-10,/Reservations/LibraryName/,LlibraryName=Too local difference,94312664699,0,94312745700,0,204,0,0
+2025-11-10,/Reservations/{format}/,ID_Reservations=null ID_Library=null ID_Book=352915 ID_Clients=null,57185033800,0,57185112199,0,204,647143800,0
+2025-11-10,/Authors/Book_ID/,Book_ID=1086954,153899352600,106100,153903118700,15955,200,3698638064,0
+2025-11-10,/Authors/{format}/,ID_Authors=null Name=Set decision Democrat Age=null Bibliograhy=null,106295838500,0,141094249900,0,204,5586074864,15625000
+2025-11-10,/Reservations/BookTitle/,BookTitle=Generation hair home,0,0,97350794400,0,204,1772965312,0
+2025-11-10,/Authors/Book_ID/,Book_ID=1154405,99167983200,2519900,99172332100,15166,200,2704100800,0
+2025-11-10,/Books/{format}/,ID_Book=128635 ISBN=null Title=null Sinopse=null,99151839700,554700,99155644600,16034,200,2704100800,0
+2025-11-10,/Reservations/{format}/,ID_Reservations=null ID_Library=307549 ID_Book=null ID_Clients=null,39468490500,0,39468522400,0,204,3839889600,0
+2025-11-10,/Reservations/{format}/,ID_Reservations=9159 ID_Library=null ID_Book=null ID_Clients=null,38900764600,8026000,38909192900,117,200,0,0
+2025-11-10,/Authors/Book_Name/,Book_Name=Number car save upon,40456520000,0,40457222799,0,204,0,0
+2025-11-10,/Authors/Book_Name/,Book_Name=Television down drive off,41466933500,0,41467216200,0,204,0,0
+2025-11-10,/Authors/{format}/,ID_Authors=null Name=null Age=34 Bibliograhy=null,72762414000,2842570305,136717501799,357802621,200,1964210368,30015625000
+2025-11-10,/Authors/Book_Name/,Book_Name=Involve finish theory physical,42891778399,0,42892134600,0,204,0,0
+2025-11-10,/Reservations/{format}/,ID_Reservations=null ID_Library=null ID_Book=1002196 ID_Clients=null,33227264800,0,33227306300,0,204,1259016560,0
+2025-11-10,/Reservations/{format}/,ID_Reservations=null ID_Library=null ID_Book=null ID_Clients=81133,33234663399,0,33234691600,0,204,1259016560,0
+2025-11-10,/Authors/Book_Name/,Book_Name=Small ball far she,39209663199,0,39209957200,0,204,0,0
+2025-11-10,/Authors/{format}/,ID_Authors=null Name=null Age=65 Bibliograhy=null,84341178600,5158157888,163665951500,392858216,200,1887703384,44046875000
+2025-11-10,/Authors/Book_Name/,Book_Name=Yourself at face election,45770814000,0,45771012999,0,204,0,0
+2025-11-10,/Authors/Book_ID/,Book_ID=1162051,45783567500,65301,45784583300,15960,200,0,0
+2025-11-10,/Reservations/ClientName/,ClientName=Tree single success do business,66264051600,0,66264354800,0,204,0,0
+2025-11-10,/Stocks/BookTitle/,BookTitle=Tough house ten,0,0,64267418200,0,204,0,15625000
+2025-11-10,/Clients/{format}/,ID_Client=25452 Name=null Phone=null Email=null  Adress=null,47656680000,46600,47669359100,21885,200,0,0
+2025-11-10,/Stocks/Library,LibraryName=Detail deal customer,73216431400,0,73216671400,0,204,0,0
+2025-11-10,/Authors/Book_ID/,Book_ID=1120971,118352117400,37700,118354062900,16001,200,0,0
+2025-11-10,/Library/{format}/,ID_Library=null Name=null Description=null Location=To fund voice computer,77377141800,0,77377201700,0,204,0,0
+2025-11-10,/Authors/{format}/,ID_Authors=13462 Name=null Age=null Bibliograhy=null,58602028599,204901,59770371600,24055,200,0,0
+2025-11-10,/Authors/{format}/,ID_Authors=16169 Name=null Age=null Bibliograhy=null,58607010500,171500,59159802400,21914,200,0,15625000
+2025-11-10,/Books/AuthorID/,AuthorID=50178,58731927799,499,60130705800,0,200,0,0
+2025-11-10,/Authors/{format}/,ID_Authors=null Name=null Age=7 Bibliograhy=null,59653692099,0,68617533400,0,204,0,0
+2025-11-10,/Clients/{format}/,ID_Client=25743 Name=null Phone=null Email=null  Adress=null,45077034100,33901,45078045100,21986,200,0,0
+2025-11-10,/Reservations/ClientName/,ClientName=Describe arm pass,67058622199,0,67058812401,0,204,0,0
+2025-11-10,/Stocks/BookTitle/,BookTitle=Head respond edge,157211322699,15700,157211893400,2997,200,0,15625000
+2025-11-10,/Stocks/BookTitle/,BookTitle=Main international believe time,0,0,72662789301,0,204,0,0
+2025-11-10,/Reservations/LibraryName/,LlibraryName=Across sing between huge,81375074499,0,81375141300,0,204,0,0
+2025-11-10,/Reservations/ClientName/,ClientName=Apply throw perform against,70631545401,0,70631735400,0,204,0,0
+2025-11-10,/Stocks/Library,LibraryName=North performance type fast,76906466100,0,76906647701,0,204,0,0
+2025-11-10,/Books/{format}/,ID_Book=null ISBN=null Title=Go theory purpose list more Sinopse=null,54887900600,0,54888094200,0,204,0,15625000
+2025-11-10,/Reservations/ClientName/,ClientName=Weight party around black third,62232266600,0,62232480000,0,204,0,0
+2025-11-10,/Reservations/ClientName/,ClientName=Mention could study small,59440171499,0,59440513300,0,204,0,0
+2025-11-10,/Authors/Book_Name/,Book_Name=Different cultural away board,58151511400,0,58152009700,0,204,0,0
+2025-11-10,/Library/{format}/,ID_Library=null Name=null Description=null Location=Them bed,99575199700,27733001,99602994500,6517102,200,0,15625000
+2025-11-10,/Stocks/BookTitle/,BookTitle=It foot ten concern seem,0,0,70263085701,0,204,0,0
+2025-11-10,/Authors/Book_Name/,Book_Name=Culture magazine member process,58910986499,0,58911183201,0,204,0,0
+2025-11-10,/Library/{format}/,ID_Library=null Name=While draw whatever Description=null Location=null,70378976000,0,70379012200,0,204,0,0
+2025-11-10,/Reservations/{format}/,ID_Reservations=9257 ID_Library=null ID_Book=null ID_Clients=null,54908801100,98601,54908927101,117,200,88080384,0
+2025-11-10,/Clients/{format}/,ID_Client=null Name=null Phone=null Email=null  Adress=3222 Angela Mill East Matthewhaven  AR 28160,93318548499,0,93318959801,0,204,0,0
+2025-11-10,/Stocks/Library,LibraryName=Recently move fall make,79260560500,0,79260725200,0,204,0,0
+2025-11-10,/Reservations/{format}/,ID_Reservations=null ID_Library=null ID_Book=null ID_Clients=54336,52964820401,0,52964849100,0,204,83886080,0
+2025-11-10,/Reservations/LibraryName/,LlibraryName=Level ready stand positive stock,76734484499,0,76734548200,0,204,0,0
+2025-11-10,/Reservations/ClientName/,ClientName=Human allow development discover enjoy,72330754001,0,72330937901,0,204,92274688,0
+2025-11-10,/Clients/{format}/,ID_Client=27778 Name=null Phone=null Email=null  Adress=null,49308663300,22999,49309084601,21850,200,75497472,0
+2025-11-10,/Books/AuthorID/,AuthorID=54419,89870525099,401,101621984300,0,200,0,0
+2025-11-10,/Authors/Book_ID/,Book_ID=1086003,89568463400,61400,89569632300,15988,200,0,0
+2025-11-10,/Authors/Book_Name/,Book_Name=Time focus still mission,54557063300,0,54557252500,0,204,88080384,0
+2025-11-10,/Reservations/BookTitle/,BookTitle=Plant describe future son,0,0,83038746901,0,204,0,0
+2025-11-10,/Authors/Book_ID/,Book_ID=1169850,92638304699,263400,92639390600,15278,200,0,0
+2025-11-10,/Books/AuthorID/,AuthorID=51110,90485873299,200,90487204501,0,200,0,0
+2025-11-10,/Clients/{format}/,ID_Client=null Name=null Phone=null Email=null  Adress=712 Smith Union Apt. 970 Hoodhaven  PW 17399,93924251100,0,93924676801,0,204,0,0
+2025-11-10,/Reservations/BookTitle/,BookTitle=Analysis and blood,0,0,91064768300,0,204,104857600,0
+2025-11-10,/Clients/{format}/,ID_Client=29537 Name=null Phone=null Email=null  Adress=null,52970390699,20901,52971167500,21913,200,75497472,0
+2025-11-10,/Authors/Book_Name/,Book_Name=Health officer direction ask,55317679800,0,55317824601,0,204,79691776,0
+2025-11-10,/Books/{format}/,ID_Book=null ISBN=978-0-546-03490-5 Title=null Sinopse=null,54234812199,0,54234971400,0,204,75497472,0
+2025-11-10,/Authors/Book_Name/,Book_Name=Free soon rock old,55178972500,0,55179177600,0,204,75497472,0
+2025-11-10,/Reservations/LibraryName/,LlibraryName=Middle political family wide then,77804650199,0,77804685100,0,204,96468992,0
+2025-11-10,/Reservations/LibraryName/,LlibraryName=Spend Mrs laugh education,65757872499,0,65757915601,0,204,88080384,0
+2025-11-10,/Books/AuthorName/,Author_Name=Feel evidence way air,92209625799,0,92209916200,0,204,113246208,0
+2025-11-10,/Books/{format}/,ID_Book=null ISBN=978-0-366-74426-8 Title=null Sinopse=null,54309083300,0,54309244600,0,204,29360128,15625000
+2025-11-10,/Reservations/BookTitle/,BookTitle=Ahead do father,0,0,77470678900,0,204,92274688,0
+2025-11-10,/Stocks/BookTitle/,BookTitle=Same knowledge every,0,0,77539988701,0,204,92274688,0
+2025-11-10,/Reservations/LibraryName/,LlibraryName=Pretty must from game every,79138758000,0,79138801801,0,204,92274688,0
+2025-11-10,/Books/AuthorID/,AuthorID=51114,102982075600,1435700,102984288500,17192,200,117440512,0
+2025-11-10,/Authors/Book_ID/,Book_ID=1070077,102141499299,59101,102142675600,15955,200,113246208,0
+2025-11-10,/Books/AuthorName/,Author_Name=Material radio level hour,106786802499,0,106787797300,0,204,117440512,0
+2025-11-10,/Reservations/LibraryName/,LlibraryName=Game race material sport,77072317300,0,77072358200,0,204,88080384,0
+2025-11-10,/Reservations/{format}/,ID_Reservations=9727 ID_Library=null ID_Book=null ID_Clients=null,57677183101,159600,57677374699,118,200,37748736,0
+2025-11-10,/Reservations/{format}/,ID_Reservations=null ID_Library=401220 ID_Book=null ID_Clients=null,57643869799,0,57643903500,0,204,37748736,0
+2025-11-10,/Reservations/ClientName/,ClientName=Paper image drop whatever dog,73261489900,0,73261678699,0,204,46137344,0
+2025-11-10,/Authors/Book_ID/,Book_ID=1166450,161891087300,293800,161893239100,15233,200,0,0
+2025-11-10,/Authors/Book_Name/,Book_Name=Despite different child wind,59717987500,0,59718426099,0,204,33554432,0
+2025-11-10,/Authors/Book_Name/,Book_Name=Significant opportunity same number,54421458101,0,54421605701,0,204,29360128,0
+2025-11-10,/Authors/Book_Name/,Book_Name=Trial near experience including,46635866100,0,46636091900,0,204,25165824,0
+2025-11-10,/Authors/Book_Name/,Book_Name=Necessary safe science in,47323819100,0,47323957800,0,204,25165824,0
+2025-11-10,/Books/AuthorID/,AuthorID=50057,103445979098,200,103447108100,52,200,58720256,0
+2025-11-10,/Authors/Book_ID/,Book_ID=1101744,161086056002,1313200,161088837500,15249,200,146800640,0
+2025-11-10,/Books/AuthorID/,AuthorID=50983,103460001799,501,103461270100,52,200,58720256,0
+2025-11-10,/Books/AuthorID/,AuthorID=52814,97396859301,701,97397825300,52,200,54525952,0
+2025-11-10,/Authors/{format}/,ID_Authors=null Name=Mention oil Age=null Bibliograhy=null,102168326600,211352912,103016781700,6075260,200,192937984,296875000
+2025-11-10,/Books/AuthorName/,Author_Name=Likely process road which,106014473000,0,106014758600,0,204,213909504,0
+2025-11-10,/Authors/Book_Name/,Book_Name=Wife yeah Mr budget,53641522400,0,53642285101,0,204,180355072,0
+2025-11-10,/Clients/{format}/,ID_Client=25360 Name=null Phone=null Email=null  Adress=null,51115076800,23499,51115616401,21894,200,180355072,15625000
+2025-11-10,/Stocks/Library,LibraryName=Piece policy remember look,112012323500,0,112012441199,0,204,213909504,0
+2025-11-10,/Authors/Book_Name/,Book_Name=Nice increase ahead others,53247695201,0,53248139899,0,204,176160768,0
+2025-11-10,/Stocks/BookTitle/,BookTitle=Conference there project sure,0,0,68543844200,0,204,184549376,0
+2025-11-10,/Authors/Book_Name/,Book_Name=Certainly doctor policy administration,56238889501,0,56239067699,0,204,176160768,0
+2025-11-10,/Reservations/{format}/,ID_Reservations=null ID_Library=null ID_Book=159928 ID_Clients=null,60017201800,0,60017236700,0,204,180355072,0
+2025-11-10,/Stocks/BookTitle/,BookTitle=Young manage image,124963696499,0,124963832300,53,200,222298112,0
+2025-11-10,/Books/AuthorName/,Author_Name=Sign hit network wonder,86479769499,0,86479985000,0,204,197132288,0
+2025-11-10,/Reservations/LibraryName/,LlibraryName=Understand happen according produce,79894925700,0,79894977099,0,204,192937984,0
+2025-11-10,/Books/AuthorName/,Author_Name=Under effect movement somebody,85377661400,0,85377848400,0,204,192937984,0
+2025-11-10,/Clients/{format}/,ID_Client=null Name=Economic suffer fine Phone=null Email=null  Adress=null,69139737499,0,69139955500,0,204,184549376,0
+2025-11-10,/Books/{format}/,ID_Book=null ISBN=978-0-450-67478-5 Title=null Sinopse=null,58538185600,0,58538332500,0,204,180355072,0
+2025-11-10,/Reservations/ClientName/,ClientName=No tree information,75734261900,0,75734476099,0,204,184549376,0
+2025-11-10,/Stocks/BookTitle/,BookTitle=They yard suggest sense,0,0,66148448701,0,204,180355072,0
+2025-11-10,/Authors/Book_ID/,Book_ID=1108377,170653112400,261900,170654108700,15254,200,301989888,0
+2025-11-10,/Authors/{format}/,ID_Authors=null Name=Future treatment Age=null Bibliograhy=null,92568240601,68745695,93031533300,5303043,200,327155712,296875000
+2025-11-10,/Reservations/BookTitle/,BookTitle=Direction someone gun,0,0,76014664800,0,204,343932928,0
+2025-11-10,/Authors/{format}/,ID_Authors=12059 Name=null Age=null Bibliograhy=null,60007088600,470600,60009795500,21944,200,335544320,0
+2025-11-10,/Clients/{format}/,ID_Client=null Name=null Phone=null Email=williamsonglen@example.org  Adress=null,98129442399,0,98129603599,0,204,356515840,0
+2025-11-10,/Library/{format}/,ID_Library=97979 Name=null Description=null Location=null,47993902500,149000,47994085299,53881,200,176160768,0
+2025-11-10,/Authors/Book_Name/,Book_Name=Call prevent then score,51066628500,0,51066764999,0,204,184549376,0
+2025-11-10,/Library/{format}/,ID_Library=75253 Name=null Description=null Location=null,49371006000,136000,49371174500,53950,200,192937984,0
+2025-11-10,/Reservations/LibraryName/,LlibraryName=Responsibility green unit,91511419999,0,91511469501,0,204,373293056,0
+2025-11-10,/Library/{format}/,ID_Library=77696 Name=null Description=null Location=null,45556926500,391199,45557340900,54345,200,209715200,0
+2025-11-10,/Authors/Book_Name/,Book_Name=Activity upon mention anything,48462672699,0,48462817500,0,204,209715200,0
+2025-11-10,/Reservations/ClientName/,ClientName=Special wear central,79480400601,0,79480557201,0,204,369098752,0
+2025-11-10,/Stocks/BookTitle/,BookTitle=Maintain society put,0,0,60215028100,0,204,209715200,0
+2025-11-10,/Books/AuthorName/,Author_Name=Detail share serious word,107191525700,0,107192151100,0,204,381681664,0
+2025-11-10,/Authors/{format}/,ID_Authors=12647 Name=null Age=null Bibliograhy=null,52040142500,110200,52042082201,21907,200,209715200,0
+2025-11-10,/Clients/{format}/,ID_Client=null Name=null Phone=495-833-7972 Email=null  Adress=null,52383852500,0,52384332300,0,204,205520896,0
+2025-11-10,/Clients/{format}/,ID_Client=null Name=null Phone=null Email=reynoldslance@example.org  Adress=null,111267603700,0,111267747300,0,204,385875968,0
+2025-11-10,/Clients/{format}/,ID_Client=null Name=null Phone=null Email=dmorrison@example.com  Adress=null,110628367500,0,110628509900,0,204,381681664,0
+2025-11-10,/Authors/{format}/,ID_Authors=null Name=Them tell body Age=null Bibliograhy=null,82220991401,0,82221253400,0,204,218103808,0
+2025-11-10,/Books/AuthorID/,AuthorID=52600,119247074400,700,119250540400,0,200,385875968,0
+2025-11-10,/Stocks/Library,LibraryName=Station office modern board,75592409901,0,75592715700,0,204,222298112,0
+2025-11-10,/Reservations/{format}/,ID_Reservations=8994 ID_Library=null ID_Book=null ID_Clients=null,56522257400,295300,56522587401,72,200,197132288,0
+2025-11-10,/Reservations/{format}/,ID_Reservations=null ID_Library=91136 ID_Book=null ID_Clients=null,56001506701,0,56001531100,0,204,62914560,0
+2025-11-10,/Authors/Book_ID/,Book_ID=1059716,53616831401,65400,53617629100,15874,200,62914560,15625000
+2025-11-10,/Reservations/LibraryName/,LlibraryName=Hand picture evidence,72160958700,0,72161006000,0,204,218103808,0
+2025-11-10,/Reservations/ClientName/,ClientName=Positive whom family notice paper,72415277300,0,72415446600,0,204,230686720,0
+2025-11-10,/Books/AuthorName/,Author_Name=Might hospital data major,99623596401,0,99623824500,0,204,243269632,0
+2025-11-10,/Books/AuthorName/,Author_Name=Drive hospital set least,85823701601,0,85823864700,0,204,239075328,0
+2025-11-10,/Stocks/Library,LibraryName=If unit describe,81041298201,0,81041352100,0,204,239075328,0
+2025-11-10,/Reservations/BookTitle/,BookTitle=Value west rule,114180640701,0,114180716400,0,204,264241152,15625000
+2025-11-10,/Reservations/{format}/,ID_Reservations=null ID_Library=null ID_Book=961449 ID_Clients=null,58010624501,0,58010670000,0,204,71303168,15625000
+2025-11-10,/Authors/{format}/,ID_Authors=14045 Name=null Age=null Bibliograhy=null,52715430501,68500,52715964300,21985,200,58720256,0
+2025-11-10,/Stocks/Library,LibraryName=Parent discover gas analysis,74288121700,0,74288219600,0,204,104857600,0
+2025-11-10,/Authors/Book_Name/,Book_Name=Step yourself world child,46246949500,0,46247113500,0,204,54525952,0
+2025-11-10,/Books/{format}/,ID_Book=null ISBN=null Title=Tough research late Sinopse=null,73083473800,0,73083606601,0,204,83886080,0
+2025-11-10,/Reservations/{format}/,ID_Reservations=null ID_Library=null ID_Book=920958 ID_Clients=null,48824795301,0,48824838800,0,204,54525952,0
+2025-11-10,/Reservations/ID_Reservation/,ID_Reservation=19227,100872881100,736600,100873851900,15159,200,260046848,0
+2025-11-10,/Stocks/BookTitle/,BookTitle=Major worry feeling himself,0,0,79253537001,0,204,88080384,0
+2025-11-10,/Books/{format}/,ID_Book=null ISBN=null Title=These total degree protect Sinopse=null,67637363700,0,67637504400,0,204,58720256,0
+2025-11-10,/Reservations/LibraryName/,LlibraryName=Discover realize democratic,86618121601,0,86618258400,0,204,75497472,0
+2025-11-10,/Reservations/BookTitle/,BookTitle=Fine give leave themselves,0,0,61399003500,0,204,50331648,0
+2025-11-10,/Books/{format}/,ID_Book=null ISBN=978-0-00-719250-2 Title=null Sinopse=null,59491893600,0,59492016100,0,204,50331648,0
+2025-11-10,/Reservations/{format}/,ID_Reservations=null ID_Library=null ID_Book=null ID_Clients=6322,59355091200,0,59355121300,0,204,50331648,0
+2025-11-10,/Authors/Book_Name/,Book_Name=Consumer once some about,58350405300,0,58350558500,0,204,54525952,0
+2025-11-10,/Authors/{format}/,ID_Authors=null Name=null Age=24 Bibliograhy=null,61536816000,0,61537034200,0,204,50331648,0
+2025-11-10,/Reservations/{format}/,ID_Reservations=9650 ID_Library=null ID_Book=null ID_Clients=null,52757846700,9300,52757889900,71,200,37748736,0
+2025-11-10,/Reservations/{format}/,ID_Reservations=null ID_Library=null ID_Book=null ID_Clients=29284,52760762000,0,52760793300,0,204,37748736,0
+2025-11-10,/Authors/{format}/,ID_Authors=null Name=Listen research Age=null Bibliograhy=null,84578371400,87677000,85089194500,5324508,200,402653184,375000000
+2025-11-10,/Authors/Book_Name/,Book_Name=Arm though painting miss,62056799800,0,62056971000,0,204,432013312,0
+2025-11-10,/Reservations/LibraryName/,LlibraryName=Front between remain item,82375917800,0,82375964300,0,204,583008256,0
+2025-11-10,/Reservations/LibraryName/,LlibraryName=Us practice within outside,82170693800,0,82170737900,0,204,1098907648,0
+2025-11-10,/Authors/Book_Name/,Book_Name=Present president adult sing,57235425400,0,57238350400,0,204,3493855232,0
+2025-11-10,/Stocks/BookTitle/,BookTitle=Help prevent instead beyond,0,0,69217024400,0,204,3498049536,0
+2025-11-10,/Stocks/BookTitle/,BookTitle=Could into thank,0,0,75570095100,0,204,4420796416,0
+2025-11-10,/Stocks/BookTitle/,BookTitle=Mother heart deep,147442638800,233100,147443924400,2933,200,4508876800,0
+2025-11-10,/Reservations/{format}/,ID_Reservations=null ID_Library=193832 ID_Book=null ID_Clients=null,48971166400,0,48971226500,0,204,4416602112,0
+2025-11-10,/Stocks/BookTitle/,BookTitle=Sit own test,100329770200,0,100329973900,53,200,0,0
+2025-11-10,/Clients/{format}/,ID_Client=26158 Name=null Phone=null Email=null  Adress=null,47036884100,87100,47039231300,21934,200,0,15625000
+2025-11-10,/Reservations/BookTitle/,BookTitle=Baby heart born,0,0,62203483000,0,204,0,0
+2025-11-10,/Stocks/BookTitle/,BookTitle=When adult stuff type,0,0,54012166400,0,204,724941080,0
+2025-11-10,/Reservations/LibraryName/,LlibraryName=Point stop food stay,82272155300,0,82272223600,0,204,1794488600,0
+2025-11-10,/Clients/{format}/,ID_Client=null Name=null Phone=null Email=null  Adress=Unit 5101 Box 7916 DPO AE 41420,115876323100,0,115878152000,0,204,3589650712,0
+2025-11-10,/Reservations/BookTitle/,BookTitle=Forget hard girl,0,0,85378252500,0,204,179681560,15625000
+2025-11-10,/Authors/{format}/,ID_Authors=10969 Name=null Age=null Bibliograhy=null,51671490500,1271200,86161526800,24269,200,179681560,15625000
+2025-11-10,/Stocks/Library,LibraryName=Country huge forget every final,78368534800,0,78368635900,0,204,0,15625000
+2025-11-10,/Authors/Book_ID/,Book_ID=1059750,163992481700,523100,163995072000,15232,200,0,15625000
+2025-11-10,/Books/AuthorID/,AuthorID=52295,102160301900,1200,102165510200,0,200,0,15625000
+2025-11-10,/Authors/{format}/,ID_Authors=null Name=null Age=75 Bibliograhy=null,69531298700,5728826500,147616592200,392320625,200,0,54343750000
+2025-11-10,/Stocks/Library,LibraryName=Leave total again give,82523353700,0,82523460200,0,204,0,0
+2025-11-10,/Reservations/{format}/,ID_Reservations=9950 ID_Library=null ID_Book=null ID_Clients=null,47469601000,17600,47469663600,72,200,0,0
+2025-11-10,/Reservations/{format}/,ID_Reservations=null ID_Library=null ID_Book=896544 ID_Clients=null,45505594100,0,45507017300,0,204,0,0
+2025-11-10,/Books/{format}/,ID_Book=null ISBN=null Title=Writer month herself business Sinopse=null,74119828400,0,74120115800,0,204,0,0
+2025-11-10,/Reservations/ClientName/,ClientName=Store coach new nor,67339531600,0,67340117500,0,204,0,0
+2025-11-10,/Reservations/ClientName/,ClientName=Big land magazine,70341813500,0,70341939600,0,204,0,0
+2025-11-10,/Authors/{format}/,ID_Authors=14934 Name=null Age=null Bibliograhy=null,55029341500,27200,75388460800,21866,200,0,0
+2025-11-10,/Stocks/Library,LibraryName=Staff Democrat whom fish,88187917700,0,88188056800,0,204,0,0
+2025-11-10,/Reservations/{format}/,ID_Reservations=null ID_Library=202382 ID_Book=null ID_Clients=null,51132952400,0,51132999600,0,204,0,0
+2025-11-10,/Reservations/LibraryName/,LlibraryName=Past woman yeah color fall,61163892700,0,61163941500,0,204,0,0
+2025-11-10,/Reservations/{format}/,ID_Reservations=null ID_Library=null ID_Book=null ID_Clients=16396,51484598200,0,51484646300,0,204,0,0
+2025-11-10,/Authors/Book_Name/,Book_Name=Wife design large prevent,65287544300,0,65289957800,0,204,0,15625000
+2025-11-10,/Reservations/ClientName/,ClientName=Under fact voice this space,69412649400,0,69413814700,0,204,0,0
+2025-11-10,/Authors/Book_ID/,Book_ID=1161489,164222891700,859800,164227312500,15901,200,945142040,15625000
+2025-11-10,/Reservations/{format}/,ID_Reservations=null ID_Library=null ID_Book=null ID_Clients=22223,57928838100,0,57928941600,0,204,1169896192,0
+2025-11-10,/Authors/{format}/,ID_Authors=null Name=Nearly about performance Age=null Bibliograhy=null,83577441500,638100,93164763400,24336,200,1847590912,0
+2025-11-10,/Books/AuthorName/,Author_Name=Pressure anyone improve decade,84910220300,0,84910506200,0,204,0,0
+2025-11-10,/Authors/Book_ID/,Book_ID=1096426,93015751900,55500,93017157700,15949,200,0,0
+2025-11-10,/Reservations/LibraryName/,LlibraryName=Head few sport,82184125800,0,82184213900,0,204,0,0
+2025-11-10,/Books/AuthorName/,Author_Name=Chair for situation travel,82963274500,0,88551927900,0,204,0,0
+2025-11-10,/Clients/{format}/,ID_Client=28472 Name=null Phone=null Email=null  Adress=null,53419108000,170600,53420982200,21938,200,2673051608,0
+2025-11-10,/Stocks/Library,LibraryName=Science total rather process charge,86937921800,0,86938020400,0,204,0,0
+2025-11-10,/Reservations/ClientName/,ClientName=Past recognize red,73980351300,0,73980525900,0,204,1056010112,0
+2025-11-10,/Reservations/{format}/,ID_Reservations=null ID_Library=177481 ID_Book=null ID_Clients=null,52695803500,0,52695898500,0,204,1766442072,0
+2025-11-10,/Authors/{format}/,ID_Authors=null Name=null Age=49 Bibliograhy=null,55772344900,5538921300,107329591800,394664483,200,0,39906250000
+2025-11-10,/Stocks/Library,LibraryName=About follow view,79841766500,0,79841892200,0,204,822961920,15625000
+2025-11-10,/Reservations/BookTitle/,BookTitle=Us behind into father less,0,0,66666112400,0,204,1554365400,0
+2025-11-10,/Library/{format}/,ID_Library=90002 Name=null Description=null Location=null,54011014300,68100,54011158700,53963,200,1168489432,0
+2025-11-10,/Reservations/{format}/,ID_Reservations=9310 ID_Library=null ID_Book=null ID_Clients=null,54000069000,689500,54000805700,118,200,1172683736,0
+2025-11-10,/Authors/Book_Name/,Book_Name=Hot wide trouble size,55787884700,0,55788145100,0,204,1172683736,0
+2025-11-10,/Stocks/Library,LibraryName=Think environmental certainly,80322601900,0,80322693500,0,204,0,0
+2025-11-10,/Reservations/ClientName/,ClientName=Hundred modern carry blood media,62383802100,0,62384060500,0,204,1197849560,0
+2025-11-10,/Clients/{format}/,ID_Client=null Name=City son second Phone=null Email=null  Adress=null,69571120900,0,69571387300,0,204,1550171096,0
+2025-11-10,/Books/{format}/,ID_Book=null ISBN=978-0-7556-1289-5 Title=null Sinopse=null,56971520400,0,56971735100,0,204,0,0
+2025-11-10,/Reservations/{format}/,ID_Reservations=null ID_Library=null ID_Book=269677 ID_Clients=null,54918310000,0,54918341700,0,204,0,0
+2025-11-10,/Books/{format}/,ID_Book=null ISBN=null Title=Student occur view Sinopse=null,65848364700,0,65848684700,0,204,1189460952,0
+2025-11-10,/Reservations/LibraryName/,LlibraryName=Cup stuff seat act,88700953800,0,88701039100,0,204,0,0
+2025-11-10,/Clients/{format}/,ID_Client=null Name=null Phone= 1-467-486-1958x11315 Email=null  Adress=null,54421942000,0,54422131200,0,204,0,0
+2025-11-10,/Reservations/ClientName/,ClientName=Truth series pick street strong,75444059600,0,75444417700,0,204,1113963480,0
+2025-11-10,/Reservations/ClientName/,ClientName=Leg pull center but actually,70650572900,0,70650738500,0,204,0,0
+2025-11-10,/Library/{format}/,ID_Library=null Name=Clearly morning listen Description=null Location=null,87945569500,0,87945627500,0,204,1197849560,0
+2025-11-10,/Stocks/BookTitle/,BookTitle=Yes may dream every,0,0,73273085100,0,204,0,0
+2025-11-10,/Reservations/LibraryName/,LlibraryName=Garden deep book sort then,88505708800,0,88505765100,0,204,602258392,0
+2025-11-10,/Stocks/Library,LibraryName=Beat author article happen,84928516600,0,84928598000,0,204,0,0
+2025-11-10,/Authors/Book_Name/,Book_Name=Appear into that catch,61096996600,0,61097192600,0,204,0,15625000
+2025-11-10,/Library/{format}/,ID_Library=90067 Name=null Description=null Location=null,58799692200,1073300,58800836400,54631,200,0,0
+2025-11-10,/Authors/{format}/,ID_Authors=14494 Name=null Age=null Bibliograhy=null,57955393800,503400,57957159000,24269,200,0,0
+2025-11-10,/Clients/{format}/,ID_Client=null Name=Discussion song very Phone=null Email=null  Adress=null,73500681200,0,73500921500,0,204,0,0
+2025-11-10,/Books/AuthorName/,Author_Name=Office bar prepare stand,96749170400,0,96749347400,0,204,0,0
+2025-11-10,/Clients/{format}/,ID_Client=null Name=Doctor set mind Phone=null Email=null  Adress=null,73813267800,0,73813479600,0,204,0,0
+2025-11-10,/Reservations/{format}/,ID_Reservations=null ID_Library=null ID_Book=614930 ID_Clients=null,58805043400,0,58805127400,0,204,71303168,0
+2025-11-10,/Reservations/ClientName/,ClientName=Picture catch family friend,74013449300,0,74013644900,0,204,79691776,0
+2025-11-10,/Stocks/Library,LibraryName=Natural Democrat account paper poor,101841525300,0,101841713900,0,204,410037104,0
+2025-11-10,/Books/AuthorID/,AuthorID=52092,115555313700,200,115559508200,52,200,0,15625000
+2025-11-10,/Authors/{format}/,ID_Authors=9807 Name=null Age=null Bibliograhy=null,58297381000,34400,58297952100,21913,200,50331648,0
+2025-11-10,/Stocks/Library,LibraryName=Final state themselves behind,100799459500,0,100799534700,0,204,412234752,0
+2025-11-10,/Books/AuthorName/,Author_Name=Daughter herself energy authority,93078858300,0,93079244400,0,204,83886080,0
+2025-11-10,/Reservations/LibraryName/,LlibraryName=Term star somebody,85256699600,0,85256740000,0,204,54525952,0
+2025-11-10,/Books/AuthorName/,Author_Name=Special to where attention,91641355100,0,91641532800,0,204,75497472,0
+2025-11-10,/Clients/{format}/,ID_Client=null Name=null Phone=001-308-354-9149x1702 Email=null  Adress=null,51137375600,0,51137491200,0,204,12582912,0
+2025-11-10,/Reservations/{format}/,ID_Reservations=null ID_Library=282544 ID_Book=null ID_Clients=null,44943865400,0,44943899600,0,204,12582912,0
+2025-11-10,/Books/AuthorID/,AuthorID=51526,45018412900,200,45019035100,52,200,12582912,0
+2025-11-10,/Reservations/BookTitle/,BookTitle=He themselves young month day,0,0,57556900500,0,204,20971520,0
+2025-11-10,/Reservations/{format}/,ID_Reservations=null ID_Library=null ID_Book=39731 ID_Clients=null,44306097900,0,44306143400,0,204,16777216,0
+2025-11-10,/Stocks/BookTitle/,BookTitle=Personal present serve,0,0,68439260400,0,204,33554432,0
+2025-11-10,/Books/{format}/,ID_Book=null ISBN=null Title=Piece stop hope until future Sinopse=null,77998502800,0,77998623400,0,204,37748736,0
+2025-11-10,/Reservations/ClientName/,ClientName=Environment serve office draw,59024013000,0,59024290900,0,204,25165824,0
+2025-11-10,/Clients/{format}/,ID_Client=null Name=null Phone=861-315-8887x5526 Email=null  Adress=null,55610583800,0,55610740100,0,204,20971520,0
+2025-11-10,/Reservations/{format}/,ID_Reservations=null ID_Library=null ID_Book=null ID_Clients=36008,51642219300,0,51642261800,0,204,20971520,0
+2025-11-10,/Authors/Book_Name/,Book_Name=Why still front throughout,61099501600,0,61099623700,0,204,20971520,0
+2025-11-10,/Library/{format}/,ID_Library=null Name=Certain enjoy however Description=null Location=null,73136820500,0,73136874400,0,204,25165824,0
+2025-11-10,/Books/AuthorID/,AuthorID=51925,170130308000,513100,170132498100,17906,200,0,0
+2025-11-10,/Authors/Book_Name/,Book_Name=Best day investment again,53156251600,0,53156612500,0,204,29360128,0
+2025-11-10,/Clients/{format}/,ID_Client=null Name=null Phone=(838)255-7647 Email=null  Adress=null,48432123300,0,48432229300,0,204,29360128,0
+2025-11-10,/Books/AuthorID/,AuthorID=50250,93547435600,300,93547923500,0,200,46137344,0
+2025-11-10,/Reservations/BookTitle/,BookTitle=Begin small throughout would usually,0,0,81514727500,0,204,33554432,0
+2025-11-10,/Books/{format}/,ID_Book=null ISBN=null Title=Response receive already Sinopse=null,76742889400,0,76743075900,0,204,37748736,0
+2025-11-10,/Authors/Book_Name/,Book_Name=Their because thought since,62073769500,0,62073965900,0,204,37748736,0
+2025-11-10,/Reservations/BookTitle/,BookTitle=Support Congress participant institution,0,0,88578678800,0,204,41943040,0
+2025-11-10,/Books/{format}/,ID_Book=null ISBN=978-0-531-39877-7 Title=null Sinopse=null,43894595000,0,43894749500,0,204,20971520,0
+2025-11-10,/Books/AuthorID/,AuthorID=55147,94662382100,700,94663122700,52,200,41943040,0
+2025-11-10,/Books/AuthorName/,Author_Name=Religious respond old very,97581191800,0,97581298100,0,204,46137344,0
+2025-11-10,/Reservations/{format}/,ID_Reservations=null ID_Library=null ID_Book=1240354 ID_Clients=null,42482568900,0,42482600400,0,204,16777216,0
+2025-11-10,/Reservations/ID_Reservation/,ID_Reservation=18538,97628054500,507700,97629212600,15161,200,46137344,0
+2025-11-10,/Reservations/ClientName/,ClientName=Late occur type,73158895600,0,73159133900,0,204,37748736,0
+2025-11-10,/Stocks/BookTitle/,BookTitle=Ask true do Republican,0,0,52025255600,0,204,46137344,0
+2025-11-10,/Authors/{format}/,ID_Authors=null Name=null Age=95 Bibliograhy=null,38525512900,0,38525660100,0,204,41943040,0
+2025-11-10,/Stocks/Library,LibraryName=Late chance least,68775696700,0,68775785800,0,204,192937984,0
+2025-11-10,/Books/AuthorName/,Author_Name=Likely kind traditional view,106727490100,0,106727741400,0,204,243269632,0
+2025-11-10,/Library/{format}/,ID_Library=null Name=Control win senior Description=null Location=null,55589178200,0,55589221700,0,204,206425088,0
+2025-11-10,/Reservations/{format}/,ID_Reservations=null ID_Library=50974 ID_Book=null ID_Clients=null,46518698300,0,46518733500,0,204,202230784,0
+2025-11-10,/Stocks/Library,LibraryName=Seem region option,61909085300,0,61909165200,0,204,1225640960,15625000
+2025-11-10,/Stocks/Library,LibraryName=Seek on if,61083891900,0,61084059800,0,200,2441989120,0
+2025-11-10,/Reservations/LibraryName/,LlibraryName=Team always tell young,56757479600,0,56757539700,0,204,2953694208,0
+2025-11-10,/Authors/Book_Name/,Book_Name=Discuss whose pattern agree,57349336000,0,57349553900,0,204,3951938560,0
+2025-11-10,/Reservations/LibraryName/,LlibraryName=Party type race,60896891200,0,60897370200,0,204,4690136064,0
+2025-11-10,/Stocks/Library,LibraryName=Quite instead within attorney,67001714200,0,67001820800,0,204,0,0
+2025-11-10,/Reservations/LibraryName/,LlibraryName=Pass buy north imagine identify,72369464100,0,72369563100,0,204,1194183680,0
+2025-11-10,/Reservations/ID_Reservation/,ID_Reservation=3272,103685891200,648600,103686850900,17214,200,1210960896,0
+2025-11-10,/Reservations/ClientName/,ClientName=This thus sea,67631734100,0,67632234400,0,204,1340984320,0
+2025-11-10,/Reservations/ClientName/,ClientName=Watch for interest social,71000894200,0,71001938400,0,204,1340984320,0
+2025-11-10,/Authors/Book_Name/,Book_Name=Trouble plant instead at,53687679700,0,53687894400,0,204,2184039424,0
+2025-11-10,/Books/{format}/,ID_Book=null ISBN=null Title=Effect police green your reason Sinopse=null,78678050600,0,78678275900,0,204,2196622336,15625000
+2025-11-10,/Authors/Book_ID/,Book_ID=1097968,88005262300,51600,88006200300,16019,200,3022900224,15625000
+2025-11-10,/Stocks/BookTitle/,BookTitle=How none special tell,0,0,81633560000,0,204,0,0
+2025-11-10,/Authors/{format}/,ID_Authors=null Name=null Age=36 Bibliograhy=null,47909860900,1766547200,90872719500,360265883,200,3112109424,40812500000
+2025-11-10,/Stocks/Library,LibraryName=Note charge along reveal,83100893000,0,83100956500,0,204,3833529712,0
+2025-11-10,/Reservations/ClientName/,ClientName=Husband music citizen dream five,71075218300,0,71075481300,0,204,0,0
+2025-11-10,/Stocks/Library,LibraryName=Maintain sell money your yet,78352675300,0,78352758200,0,204,0,15625000
+2025-11-10,/Reservations/LibraryName/,LlibraryName=While provide Mr few,77058399300,0,77058469600,0,204,0,0
+2025-11-10,/Stocks/Library,LibraryName=Paper course speak agency nature,79919719400,0,79919797700,0,204,0,0
+2025-11-10,/Books/{format}/,ID_Book=null ISBN=null Title=Suggest nation big still Sinopse=null,66030536300,0,66030700000,0,204,0,0
+2025-11-10,/Books/AuthorName/,Author_Name=Page treat black those,100832557500,0,100832721200,0,204,0,0
+2025-11-10,/Books/AuthorID/,AuthorID=52433,117856778000,900,119309508900,0,200,0,0
+2025-11-10,/Reservations/{format}/,ID_Reservations=null ID_Library=null ID_Book=960005 ID_Clients=null,59228346200,0,59228394300,0,204,0,0
+2025-11-10,/Reservations/ID_Reservation/,ID_Reservation=19274,117859217100,1371200,117861255400,15224,200,0,0
+2025-11-10,/Books/AuthorName/,Author_Name=Yet window discover responsibility,97371441200,0,97371564600,0,204,0,0
+2025-11-10,/Clients/{format}/,ID_Client=null Name=null Phone=null Email=null  Adress=207 Joshua Islands Suite 683 Susantown  SC 46907,107047746200,0,107047912200,0,204,0,0
+2025-11-10,/Reservations/BookTitle/,BookTitle=View season choice husband wear,0,0,71341136500,0,204,0,0
+2025-11-10,/Stocks/Library,LibraryName=Beat summer couple need increase,97182907500,0,97183011000,0,204,0,0
+2025-11-10,/Stocks/Library,LibraryName=Risk hotel nor author,87572103300,0,87572204300,0,204,0,0
+2025-11-10,/Reservations/LibraryName/,LlibraryName=Add gun impact try,89151368100,0,89151435100,0,204,0,0
+2025-11-10,/Clients/{format}/,ID_Client=25596 Name=null Phone=null Email=null  Adress=null,54830222300,23700,54830894100,21822,200,0,0
+2025-11-10,/Books/{format}/,ID_Book=37240 ISBN=null Title=null Sinopse=null,114841513300,5713300,114849143000,18141,200,0,0
+2025-11-10,/Books/{format}/,ID_Book=null ISBN=978-0-05-874898-7 Title=null Sinopse=null,54271467800,0,54273818900,0,204,0,0
+2025-11-10,/Reservations/ClientName/,ClientName=Charge then significant southern something,72863339200,0,72863564600,0,204,0,0
+2025-11-10,/Reservations/{format}/,ID_Reservations=null ID_Library=null ID_Book=931389 ID_Clients=null,58790795600,0,58790848500,0,204,0,0
+2025-11-10,/Reservations/LibraryName/,LlibraryName=Fire risk bar myself,81830150500,0,81830226900,0,204,0,0
+2025-11-10,/Stocks/Library,LibraryName=Force card relationship opportunity call,79868647600,0,79868787200,0,204,0,0
+2025-11-10,/Reservations/ClientName/,ClientName=Foot relate environment,66357373500,0,66357587100,0,204,0,15625000
+2025-11-10,/Reservations/ClientName/,ClientName=Fine exactly positive,66351338800,0,66351577100,0,204,0,0
+2025-11-10,/Reservations/{format}/,ID_Reservations=null ID_Library=null ID_Book=null ID_Clients=20846,57706805200,0,57706834400,0,204,41943040,0
+2025-11-10,/Books/AuthorID/,AuthorID=50744,118950107100,1000,118951498900,52,200,0,0
+2025-11-10,/Reservations/{format}/,ID_Reservations=null ID_Library=null ID_Book=1045532 ID_Clients=null,45117771700,0,45117809500,0,204,37748736,0
+2025-11-10,/Library/{format}/,ID_Library=75346 Name=null Description=null Location=null,32007646800,77600,32007758200,53922,200,33554432,15625000
+2025-11-10,/Stocks/BookTitle/,BookTitle=Study mind he western,0,0,83375525400,0,204,0,0
+2025-11-10,/Reservations/ClientName/,ClientName=Remain water appear card,59036811700,0,59036952300,0,204,41943040,0
+2025-11-10,/Reservations/ClientName/,ClientName=Her word itself stage,72418764300,0,72418891200,0,204,50331648,0
+2025-11-10,/Clients/{format}/,ID_Client=null Name=null Phone=875-774-4445x81206 Email=null  Adress=null,44111841600,0,44112053800,0,204,29360128,0
+2025-11-10,/Books/{format}/,ID_Book=null ISBN=null Title=Edge walk step speech Sinopse=null,47113499100,0,47113620900,0,204,33554432,0
+2025-11-10,/Reservations/LibraryName/,LlibraryName=Walk not method situation development,83660872300,0,83660917300,0,204,67108864,0
+2025-11-10,/Reservations/ClientName/,ClientName=Region tax if about read,56868447900,0,56869161800,0,204,46137344,0
+2025-11-10,/Reservations/ClientName/,ClientName=Customer heavy front,56945161000,0,56945300800,0,204,46137344,0
+2025-11-10,/Authors/Book_Name/,Book_Name=Doctor school plan yard,45530803700,0,45530936600,0,204,37748736,0
+2025-11-10,/Reservations/{format}/,ID_Reservations=null ID_Library=388142 ID_Book=null ID_Clients=null,45216823700,0,45216845900,0,204,41943040,0
+2025-11-10,/Books/AuthorID/,AuthorID=52084,96818388900,200,96819159900,0,200,0,0
+2025-11-10,/Authors/Book_Name/,Book_Name=Morning total meet part,45343804000,0,45343993000,0,204,37748736,0
+2025-11-10,/Authors/Book_Name/,Book_Name=Close able third Democrat,40905891200,0,40906031900,0,204,33554432,0
+2025-11-10,/Reservations/BookTitle/,BookTitle=Imagine radio you situation job,0,0,65213470500,0,204,50331648,0
+2025-11-10,/Authors/{format}/,ID_Authors=null Name=null Age=86 Bibliograhy=null,41737480700,0,41737768600,0,204,33554432,0
+2025-11-10,/Reservations/ClientName/,ClientName=Hundred book yes decision which,64732481200,0,64732617900,0,204,46137344,0
+2025-11-10,/Reservations/ClientName/,ClientName=Family that base serve collection,67000958600,0,67001341000,0,204,46137344,0
+2025-11-10,/Reservations/{format}/,ID_Reservations=null ID_Library=436251 ID_Book=null ID_Clients=null,37169080000,0,37169114600,0,204,20971520,0
+2025-11-10,/Clients/{format}/,ID_Client=null Name=null Phone=null Email=danielruiz@example.com  Adress=null,106273492900,0,106274012500,0,204,0,0
+2025-11-10,/Authors/Book_ID/,Book_ID=1063276,71096907800,801900,71098706600,15195,200,54525952,0
+2025-11-10,/Stocks/BookTitle/,BookTitle=Situation big accept maybe true,0,0,55576767300,0,204,41943040,0
+2025-11-10,/Library/{format}/,ID_Library=null Name=Career that exactly Description=null Location=null,74921403100,0,74921441900,0,204,54525952,0
+2025-11-10,/Library/{format}/,ID_Library=75059 Name=null Description=null Location=null,28837095600,166900,28837294600,53909,200,29360128,0
+2025-11-10,/Clients/{format}/,ID_Client=null Name=Chance president room Phone=null Email=null  Adress=null,55768478700,0,55768655400,0,204,33554432,0
+2025-11-10,/Reservations/{format}/,ID_Reservations=null ID_Library=null ID_Book=160829 ID_Clients=null,37610469300,0,37610507300,0,204,29360128,0
+2025-11-10,/Library/{format}/,ID_Library=null Name=Child court information Description=null Location=null,55213859000,0,55213891900,0,204,37748736,0
+2025-11-10,/Library/{format}/,ID_Library=null Name=Control take sister Description=null Location=null,56017498200,0,56017551700,0,204,104857600,0
+2025-11-10,/Authors/Book_Name/,Book_Name=Person growth surface understand,51025861600,0,51026043000,0,204,92274688,0
+2025-11-10,/Clients/{format}/,ID_Client=null Name=null Phone=null Email=null  Adress=227 Brooke Run North Christown  MT 17528,86864137900,0,86864271600,0,204,1929379840,0
+2025-11-10,/Clients/{format}/,ID_Client=null Name=null Phone=null Email=dli@example.com  Adress=null,75281297800,0,75281411500,0,204,1925185536,0
+2025-11-10,/Authors/Book_ID/,Book_ID=1051930,100475161700,47800,100476965800,15942,200,1941962752,0
+2025-11-10,/Library/{format}/,ID_Library=71402 Name=null Description=null Location=null,50597234100,151200,50597428200,53953,200,1904214016,0
+2025-11-10,/Books/{format}/,ID_Book=null ISBN=978-0-267-91002-1 Title=null Sinopse=null,55137523400,0,55137658800,0,204,3779067904,0
+2025-11-10,/Reservations/ID_Reservation/,ID_Reservation=19174,94241557700,1139900,94243311300,15195,200,3812622336,0
+2025-11-10,/Authors/Book_ID/,Book_ID=1130915,91694716000,41800,91698278200,15857,200,3804233728,0
+2025-11-10,/Reservations/ID_Reservation/,ID_Reservation=19225,119127183100,45600,119127917900,14971,200,4563402752,0
+2025-11-10,/Books/AuthorID/,AuthorID=57132,108673956600,755500,108676175400,17957,200,4555014144,0
+2025-11-10,/Books/AuthorID/,AuthorID=53894,58288440500,500,58289266400,52,200,4534042624,0
+2025-11-10,/Reservations/{format}/,ID_Reservations=null ID_Library=null ID_Book=null ID_Clients=34546,54756087100,0,54756126000,0,204,4538236928,0
+2025-11-10,/Books/{format}/,ID_Book=12550 ISBN=null Title=null Sinopse=null,72151131300,1145200,72153591900,16146,200,764923584,0
+2025-11-10,/Reservations/ID_Reservation/,ID_Reservation=19426,63770485700,340900,63770989000,15241,200,764923584,0
+2025-11-10,/Reservations/ID_Reservation/,ID_Reservation=19198,95117958700,1019200,95119492100,15339,200,785895104,0
+2025-11-10,/Reservations/ID_Reservation/,ID_Reservation=2230,92291768800,473500,92292382100,15111,200,785895104,15625000
+2025-11-10,/Authors/Book_ID/,Book_ID=1067612,78589505900,139200,78591060600,15998,200,769117888,0
+2025-11-10,/Authors/Book_ID/,Book_ID=1083112,60423151100,332300,60424338300,15193,200,764923584,0
+2025-11-10,/Reservations/ID_Reservation/,ID_Reservation=19823,101506472600,73800,101506683400,14981,200,790089408,0
+2025-11-10,/Reservations/ID_Reservation/,ID_Reservation=19834,83184137600,65400,83184418500,16878,200,785895104,0
+2025-11-10,/Reservations/ID_Reservation/,ID_Reservation=19117,83203598200,532100,83204354900,15227,200,781700800,0
+2025-11-10,/Reservations/ID_Reservation/,ID_Reservation=10342,86781378100,319400,86781861200,15156,200,785895104,0
+2025-11-10,/Reservations/ID_Reservation/,ID_Reservation=18866,64258632100,107200,64258884600,14992,200,769117888,0
+2025-11-10,/Reservations/ClientName/,ClientName=Boy last,183653019400,1320200,183654568400,45833,200,0,31250000
+2025-11-10,/Reservations/ClientName/,ClientName=Sense born,204724147700,4112900,204729178800,78363,200,0,0
+2025-11-10,/Reservations/LibraryName/,LlibraryName=Myself room,328617552300,2232700,328619855400,89409,200,0,46875000
+2025-11-10,/Reservations/LibraryName/,LlibraryName=Spend free,163113458800,845900,163114384200,93817,200,1419235008,62500000
+2025-11-10,/Books/{format}/,ID_Book=null ISBN=null Title=Election continue Sinopse=null,79317018600,49771100,79628594400,2615277,200,1381486272,406250000
+2025-11-10,/Reservations/BookTitle/,BookTitle=Itself during,69104064200,421700,69104622700,33740,200,2706886336,31250000
+2025-11-10,/Stocks/BookTitle/,BookTitle=College even,268455447100,17549200,268478049800,285092,200,0,375000000
+2025-11-10,/Authors/{format}/,ID_Authors=null Name=null Age=51 Bibliograhy=null,61126952800,1997052700,95388697500,360229064,200,4720152256,33031250000
+2025-11-10,/Stocks/Library,LibraryName=Single town career buy indicate,93872820200,0,93872956000,0,204,5441572544,0
+2025-11-10,/Stocks/Library,LibraryName=Blue Mr treatment,97420910400,0,97420999400,0,204,5437378240,0
+2025-11-10,/Reservations/LibraryName/,LlibraryName=Skill population measure ready,93685920700,0,93685980500,0,204,5437378240,0
