@@ -24,7 +24,9 @@ Em todos os scripts por conta das meticas e preciso encontra o pid de certos ser
 ...\Scripts\Testar_Concurrencia -> Testa a api para as concorrencias indicadas 
 
 ...\Scripts\Testes -> Run_Final Testa a api para a concurrencia pretendida 
-...\Scripts/.../Monitoring -> Neste script é preciso adaptar os recursos consoante os usados no testes (cores/ram disponieveis)
+
+...\Scripts/.../Monitoring -> Neste script é preciso adaptar os recursos consoante os usados no testes (cores/ram disponieveis).
+
 ...\csvMetrics... -> Neste script cria uns graficos com a media de tempo por processo interno da api por exemplo tempo de parser retorno da api etc, para isso apos cada run de testes deve-se apagar o csv formado pelo mesmo.
 
 # API
