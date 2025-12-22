@@ -26,6 +26,7 @@ Após a conclusão, teste a conexão com a database para garantir que está func
 
 ## API 
 Para configurar a API, faça o build da versão desejada usando Gradle.
+As versões da api estao na pasta "./APIs-Implementações/".
 Em seguida, configure o arquivo `application.properties` para conectar à database, incluindo ip, user e senha corretos. 
 Depois, inicie a API e verifique os endpoints que deseja testar para confirmar que estão funcionando corretamente.
 A api corre em springboot nativo.
